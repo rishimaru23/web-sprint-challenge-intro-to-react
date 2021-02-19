@@ -6,7 +6,7 @@ import Character from './components/Character';
 
 const h1 = styled.h1`
 font-family: Arial, sans-serif;
-color: nlue;
+color: blue;
 `
 
 const App = () => {
